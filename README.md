@@ -1,1 +1,0 @@
-# awesomeqa_support
